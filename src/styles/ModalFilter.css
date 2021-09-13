@@ -1,0 +1,11 @@
+.date {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.filtre {
+  display: inline-block;
+  margin-left: 10px;
+  color: blue;
+  cursor: pointer;
+}

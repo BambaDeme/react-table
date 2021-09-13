@@ -1,0 +1,19 @@
+.btn-custom {
+  background-color: #fff;
+  color: blue;
+  box-shadow: 4px 4px 4px rgb(248, 250, 251);
+  border: 3px solid rgb(248, 250, 251);
+  border-radius: 10px;
+}
+
+.btn-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-content i {
+  margin-right: 10px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}

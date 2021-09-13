@@ -1,0 +1,9 @@
+.spinner-custom {
+  width: 10rem !important;
+  height: 10rem !important;
+  border: 0.75em solid currentColor !important;
+  border-right-color: transparent !important;
+  position: relative;
+  left: 40vw;
+  margin-top: 10%;
+}
